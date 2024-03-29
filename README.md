@@ -63,7 +63,7 @@
 </a> 
 </p>
 
-## Top Respositorys
+## Top Respositories
   <p align="left">
      <a href="https://github.com/rajatsingh6282/firebase-otp-verification-laravel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rajatsingh6282&repo=firebase-otp-verification-laravel&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/rajatsingh6282/pithy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rajatsingh6282&repo=pithy&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
