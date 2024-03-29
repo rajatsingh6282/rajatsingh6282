@@ -48,7 +48,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/rajatsingh6282"><img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,html,js,jquery,css,sass,react,java,collections,spring mvc,springboot,mysql,postman,ubuntu"> </a> </p>
+<p align="left"> <a href="https://github.com/rajatsingh6282"><img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,html,js,jquery,css,sass,react,java,collections,springboot,mysql,postman,ubuntu"> </a> </p>
 
 ## My Stats:
 <p align="center">
