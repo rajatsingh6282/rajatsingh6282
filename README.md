@@ -32,15 +32,15 @@
 
 ## What I'm Doing
 
-- 🔭 I’m currently working on **Developing a dynamic web application integrating React, Node.js, and MongoDB for enhanced user experiences.**
+- 🔭 I’m currently working on **Developing a dynamic web application integrating React, SpringBoot, Spring MVC, and MYSQL for enhanced user experiences.**
 
-- 🌱 I’m currently learning **DevOps, AWS** & more
+- 🌱 I’m currently learning **MicroServices, AWS** & more
 
 - 👯 I’m looking to collaborate on **Innovative web development projects that push the boundaries of technology and user experience. Particularly interested in collaborations that aim to solve real-world problems through cutting-edge web applications.**
 
 - 🤝 I’m looking for help with **Optimizing database performance and exploring cutting-edge technologies to elevate project efficiency.**
 
-- 💬 Ask me about **Software Engineer | Full Stack | React Js | Node JS | NEXT JS | PHP | Laravel | Codeigniter | MySql | MongoDB**
+- 💬 Ask me about **Software Engineer | Full Stack | React Js | Java | Collection Framework | JSP & Servlet | SPRING | SPRINGBOOT | MySql | Design Pattern**
 
 - 📫 How to reach me **rajatsingh6282@gmail.com**
 
@@ -48,7 +48,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/rajatsingh6282"><img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,html,js,jquery,css,sass,php,laravel,react,redux,ts,nodejs,nextjs,nestjs,npm,mongodb,mysql,express,firebase,postman,ubuntu"> </a> </p>
+<p align="left"> <a href="https://github.com/rajatsingh6282"><img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,html,js,jquery,css,sass,react,java,collections,spring mvc,springboot,mysql,postman,ubuntu"> </a> </p>
 
 ## My Stats:
 <p align="center">
