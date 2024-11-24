@@ -9,7 +9,7 @@
 <p align="center">
  <a href="https://twitter.com/rajatsingh6282"><img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rajatsingh6282"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/23340623"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://stackoverflow.com/users/23544232/rajat-singh"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
   <a href="https://fb.com/rajatsingh6282"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1976d2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/rajatsingh6282"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/rajatsingh6282"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/></a>
